@@ -1,0 +1,10 @@
+[ART50] 
+
+🚫 PROHIBITS:
+   • This obligation shall not apply where the use is
+authorised by law to detect,...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: biometric, transparency, emotion recognition
+--------------------------------------------------

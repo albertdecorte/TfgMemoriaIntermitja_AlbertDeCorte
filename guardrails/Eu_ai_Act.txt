@@ -1,0 +1,247 @@
+Biometric identification in publicly accessible spaces for law enforcement purposes
+Real-time remote biometric surveillance systems
+Post-event remote biometric identification systems
+Emotion recognition systems in the workplace
+Emotion recognition systems in educational institutions
+Social scoring systems that lead to detrimental treatment
+AI systems that manipulate human behavior to circumvent free will
+AI systems that exploit vulnerabilities of persons due to age
+AI systems that exploit vulnerabilities of persons due to disability
+AI systems that exploit vulnerabilities of persons due to social situation
+Predictive policing systems based on profiling
+AI systems for risk assessment of individuals committing criminal offenses
+AI systems that create facial recognition databases through untargeted scraping
+AI systems for biometric categorization based on sensitive characteristics
+AI systems that use subliminal techniques beyond person's consciousness
+AI systems that cause physical or psychological harm
+Untargeted scraping of facial images from the internet or CCTV footage
+AI systems for real-time biometric surveillance in public spaces
+AI systems for remote biometric identification in places of worship
+AI systems for remote biometric identification in educational institutions
+AI systems for remote biometric identification in healthcare facilities
+AI systems that infer emotions in law enforcement contexts
+AI systems that infer emotions in border control contexts
+AI systems that infer emotions in workplace contexts
+AI systems that infer emotions in educational contexts
+AI systems for social scoring by public authorities
+AI systems for social scoring by private entities
+AI systems that evaluate creditworthiness based on social behavior
+AI systems that rank individuals based on their social behavior
+AI systems that predict criminal behavior based on facial features
+AI systems that profile individuals based on ethnicity
+AI systems that profile individuals based on political opinions
+AI systems that profile individuals based on religious beliefs
+AI systems that profile individuals based on trade union membership
+AI systems that profile individuals based on sexual orientation
+AI systems for mass surveillance in public spaces
+AI systems for automated individual decision-making with legal effects
+AI systems that manipulate consumer behavior through dark patterns
+AI systems that deploy subliminal advertising techniques
+AI systems that exploit children's vulnerabilities
+AI systems that exploit elderly people's vulnerabilities
+AI systems that target vulnerable populations without adequate safeguards
+AI systems for indiscriminate surveillance
+AI systems that violate fundamental rights to privacy
+AI systems that infringe on data protection rights
+AI systems that enable mass government surveillance
+AI systems that create digital profiles for social credit
+AI systems that assign trust scores to individuals
+AI systems that deny services based on social behavior
+AI systems that restrict movement based on social scores
+AI systems that limit employment opportunities based on social behavior
+AI systems that restrict education access based on social scores
+AI systems that deny financial services based on social behavior
+AI systems that manipulate political opinions through AI
+AI systems that generate deepfakes without disclosure
+AI systems that impersonate real persons without consent
+AI systems that spread disinformation at scale
+AI systems that create synthetic media for manipulation
+AI systems for automated recruitment that discriminates
+AI systems for automated hiring that uses biased algorithms
+AI systems for employee monitoring that invades privacy
+AI systems for automated performance evaluation without human oversight
+AI systems that deny healthcare based on AI predictions
+AI systems that allocate public benefits using biased algorithms
+AI systems that determine insurance premiums based on discriminatory factors
+AI systems for predictive maintenance in critical infrastructure without human oversight
+AI systems for safety components in vehicles without adequate testing
+AI systems for aviation safety without proper certification
+AI systems for nuclear facility operations without human control
+AI systems for medical diagnosis without clinical validation
+AI systems for emergency response without human verification
+AI systems for law enforcement without judicial oversight
+AI systems for border control without legal safeguards
+AI systems for asylum determination without human review
+AI systems for visa applications using discriminatory algorithms
+AI systems for migration management without fundamental rights assessment
+AI systems for policing protests without transparency
+AI systems for crowd surveillance without legal basis
+AI systems that identify protesters through facial recognition
+AI systems that track political dissidents
+AI systems that monitor journalists without justification
+AI systems that surveil human rights defenders
+AI systems that target minority groups disproportionately
+AI systems that enable racial profiling
+AI systems that enable religious profiling
+AI systems that enable gender discrimination
+AI systems that enable age discrimination
+AI systems that enable disability discrimination
+AI systems that use biometric data without explicit consent
+AI systems that collect facial data without transparency
+AI systems that process sensitive data without safeguards
+AI systems that retain biometric data indefinitely
+AI systems that share biometric data across borders without protection
+AI systems that use AI for automated credit decisions without explanation
+AI systems that deny housing based on AI algorithms
+AI systems that discriminate in education admissions through AI
+AI systems that manipulate stock markets using AI
+AI systems that create unfair competitive advantages
+AI systems that enable price discrimination based on personal data
+AI systems that implement dynamic pricing without transparency
+AI systems that use AI for algorithmic collusion
+AI systems that automate anti-competitive behavior
+AI systems that generate misleading information about elections
+AI systems that suppress voter participation
+AI systems that target voters with disinformation
+AI systems that manipulate electoral outcomes
+AI systems that interfere with democratic processes
+AI systems that undermine free and fair elections
+AI systems that create fake social media accounts to influence opinion
+AI systems that amplify divisive content to destabilize societies
+AI systems that enable cyberbullying at scale
+AI systems that automate harassment campaigns
+AI systems that generate harmful content for vulnerable groups
+AI systems that facilitate child exploitation
+AI systems that create non-consensual intimate imagery
+AI systems that enable stalking through AI-powered tracking
+AI systems that circumvent age verification systems
+AI systems that enable unauthorized surveillance of children
+AI systems that monitor employees without notification
+AI systems that use AI for automated firing decisions
+AI systems that predict employee unionization activities
+AI systems that discriminate against pregnant women in hiring
+AI systems that screen out qualified candidates based on protected characteristics
+AI systems that perpetuate historical biases in hiring
+AI systems that create discriminatory job advertisements
+AI systems that enable wage discrimination through AI tools
+AI systems that automate unsafe working conditions monitoring
+AI systems that deny workers the right to human oversight
+AI systems that implement algorithmic management without transparency
+AI systems that facilitate illegal surveillance of workers
+AI systems for law enforcement facial recognition without judicial warrant
+AI systems for predictive policing based on biased historical data
+AI systems that create biased risk assessment tools for bail decisions
+AI systems that discriminate in parole decisions
+AI systems that deny bail based on opaque AI algorithms
+AI systems that create racially biased sentencing recommendations
+AI systems that enable mass incarceration through AI predictions
+AI systems that target specific communities for policing
+AI systems that automate stop-and-frisk policies
+AI systems that enable unconstitutional searches through AI predictions
+AI systems that violate due process rights
+AI systems that deny right to explanation for AI decisions
+AI systems that operate without transparency in government
+AI systems that enable secret surveillance programs
+AI systems that bypass legal protections for citizens
+AI systems that enable warrantless surveillance of communications
+AI systems that track location data without consent
+AI systems that enable government tracking of political activities
+AI systems that facilitate censorship through automated content removal
+AI systems that suppress protected speech
+AI systems that automate targeting of journalists
+AI systems that enable surveillance of whistleblowers
+AI systems that create chilling effects on free expression
+AI systems that violate international human rights law
+AI systems that enable crimes against humanity through AI targeting
+AI systems that facilitate ethnic cleansing through surveillance
+AI systems that enable persecution of minorities
+AI systems that violate Geneva Convention principles
+AI systems that enable autonomous weapons systems
+AI systems that remove human control over lethal decisions
+AI systems that enable killer robots without human oversight
+AI systems that violate arms control agreements
+AI systems that facilitate cyber warfare without accountability
+AI systems that enable offensive cyber operations
+AI systems that create autonomous military systems
+AI systems that enable weapons of mass destruction delivery
+AI systems that violate nuclear non-proliferation agreements
+AI systems that enable chemical weapons development
+AI systems that facilitate biological weapons research
+AI systems that enable terrorist activities through AI tools
+AI systems that radicalize individuals through algorithms
+AI systems that enable recruitment for terrorist organizations
+AI systems that automate money laundering detection in discriminatory ways
+AI systems that enable financial exclusion based on AI decisions
+AI systems that create unfair lending practices
+AI systems that deny mortgages based on discriminatory AI
+AI systems that enable redlining through algorithmic tools
+AI systems that perpetuate housing discrimination
+AI systems that create educational disparities through AI tracking
+AI systems that deny educational opportunities based on AI predictions
+AI systems that enable digital redlining in education
+AI systems that create tracking systems that limit student potential
+AI systems that enable discriminatory streaming in education
+AI systems that violate equal education opportunity laws
+AI systems that deny healthcare based on AI predictions
+AI systems that create biased diagnostic tools
+AI systems that enable healthcare discrimination
+AI systems that deny treatment based on algorithmic decisions
+AI systems that create racial disparities in healthcare AI
+AI systems that violate medical ethics through automation
+AI systems that enable autonomous medical decisions without oversight
+AI systems that distribute scarce medical resources unfairly
+AI systems that enable discriminatory organ allocation
+AI systems that violate patient consent through AI systems
+AI systems that process medical data without proper security
+AI systems that enable healthcare data breaches at scale
+AI systems that compromise patient privacy
+AI systems that create unsafe autonomous vehicles
+AI systems that endanger public safety through AI failures
+AI systems that cause autonomous vehicle accidents
+AI systems that enable unsafe drone operations
+AI systems that violate aviation safety standards
+AI systems that compromise air traffic control
+AI systems that enable automated weapons in civilian contexts
+AI systems that create unsafe robotic systems in public spaces
+AI systems that enable autonomous systems without safety certifications
+AI systems that violate product safety regulations
+AI systems that enable unsafe consumer products
+AI systems that create hazardous AI-controlled machinery
+AI systems that violate workplace safety standards
+AI systems that enable unsafe autonomous industrial equipment
+AI systems that compromise critical infrastructure security
+AI systems that enable cyber attacks on power grids
+AI systems that compromise water supply systems
+AI systems that threaten transportation networks
+AI systems that enable attacks on communication systems
+AI systems that compromise financial systems stability
+AI systems that create systemic risks through AI concentration
+AI systems that enable algorithmic trading that destabilizes markets
+AI systems that create cascading failures in critical systems
+AI systems that violate environmental regulations
+AI systems that enable illegal pollution monitoring evasion
+AI systems that facilitate wildlife trafficking detection evasion
+AI systems that enable illegal fishing detection evasion
+AI systems that compromise climate change mitigation efforts
+AI systems that violate environmental protection laws
+AI systems that enable discrimination in environmental justice
+AI systems that target marginalized communities for pollution
+AI systems that violate indigenous peoples' rights through AI
+AI systems that enable cultural heritage destruction
+AI systems that violate intellectual property rights at scale
+AI systems that enable massive copyright infringement
+AI systems that generate unauthorized derivative works
+AI systems that violate trade secret protections
+AI systems that enable industrial espionage
+AI systems that compromise national security through AI
+AI systems that enable foreign interference in domestic affairs
+AI systems that violate export control regulations
+AI systems that enable proliferation of sensitive technologies
+AI systems that violate international sanctions
+AI systems that compromise democratic institutions
+AI systems that undermine public trust in AI systems
+AI systems that create opaque decision-making in government
+AI systems that deny citizens right to challenge automated decisions
+AI systems that violate procedural fairness requirements
+AI systems that enable automated persecution without appeal
+AI systems that create unequal treatment under AI governance

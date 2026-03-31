@@ -1,0 +1,1635 @@
+{
+  "1": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "transparency",
+      "fundamental rights",
+      "market surveillance"
+    ]
+  },
+  "10": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "data governance",
+      "prohibited"
+    ]
+  },
+  "100": {
+    "title": "",
+    "prohibits": [
+      "The fines\nshall not affect the effective operation of the Union institution, ..."
+    ],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [
+      "Fine: EUR 1",
+      "Fine: EUR 750"
+    ],
+    "keywords": []
+  },
+  "101": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [
+      "Fine: EUR 15"
+    ],
+    "keywords": []
+  },
+  "102": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "103": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "104": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "105": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "106": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "107": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "108": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "109": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "11": {
+    "title": "have been drawn up and that an appropriate conformity assessment procedure has b",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "notified body"
+    ]
+  },
+  "110": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "111": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk"
+    ]
+  },
+  "112": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "transparency",
+      "fundamental rights",
+      "conformity",
+      "prohibited"
+    ]
+  },
+  "113": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "biometric",
+      "high-risk",
+      "fundamental rights",
+      "conformity",
+      "notified body",
+      "quality management",
+      "risk assessment",
+      "human oversight"
+    ]
+  },
+  "12": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "post-market monitoring"
+    ]
+  },
+  "13": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "transparency",
+      "fundamental rights",
+      "conformity",
+      "human oversight"
+    ]
+  },
+  "14": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "human oversight"
+    ]
+  },
+  "15": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk"
+    ]
+  },
+  "16": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "quality management"
+    ]
+  },
+  "17": {
+    "title": "shall be examined in accordance with point 3 and shall be subject to surveillanc",
+    "prohibits": [
+      "The notified body shall notify the provider of its decision"
+    ],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "notified body",
+      "quality management"
+    ]
+  },
+  "18": {
+    "title": "of Regulation (EU) 2019/1020 shall apply mutatis mutandis to the providers of th",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "19": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk"
+    ]
+  },
+  "2": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Importers into EU",
+      "Distributors",
+      "Product manufacturers"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk"
+    ]
+  },
+  "20": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Importers into EU",
+      "Distributors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "notified body",
+      "market surveillance"
+    ]
+  },
+  "21": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "22": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "market surveillance"
+    ]
+  },
+  "23": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Importers into EU"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "24": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Importers into EU",
+      "Distributors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "25": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Importers into EU",
+      "Distributors",
+      "Product manufacturers"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "26": {
+    "title": "",
+    "prohibits": [
+      "This obligation\nshall not cover sensitive operational data of deployers of AI..."
+    ],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Importers into EU",
+      "Distributors",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "biometric",
+      "high-risk",
+      "human oversight",
+      "serious incident",
+      "market surveillance",
+      "remote biometric identification"
+    ]
+  },
+  "27": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "human oversight",
+      "market surveillance"
+    ]
+  },
+  "28": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "Those procedures shall be developed in cooperation between the notifying auth..."
+    ],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "fundamental rights",
+      "conformity"
+    ]
+  },
+  "29": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity",
+      "notified body"
+    ]
+  },
+  "3": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Importers into EU",
+      "Distributors",
+      "Product manufacturers",
+      "Certification bodies",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "biometric",
+      "high-risk",
+      "fundamental rights",
+      "conformity",
+      "notified body",
+      "post-market monitoring",
+      "serious incident",
+      "market surveillance"
+    ]
+  },
+  "30": {
+    "title": "",
+    "prohibits": [
+      "Notifying authorities may notify only conformity assessment bodies which have..."
+    ],
+    "requires": [],
+    "applies_to": [
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity",
+      "notified body"
+    ]
+  },
+  "31": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "notified body",
+      "quality management"
+    ]
+  },
+  "32": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity"
+    ]
+  },
+  "33": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "Notified bodies shall take full responsibility for the tasks performed by any..."
+    ],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity",
+      "notified body"
+    ]
+  },
+  "34": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "notified body"
+    ]
+  },
+  "35": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The Commission shall ensure that the list is kept\nup to date"
+    ],
+    "applies_to": [
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "notified body"
+    ]
+  },
+  "36": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "conformity",
+      "notified body",
+      "market surveillance"
+    ]
+  },
+  "37": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "notified body"
+    ]
+  },
+  "38": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The Commission shall provide for the exchange of knowledge and best practices..."
+    ],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "39": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity"
+    ]
+  },
+  "4": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "prohibited"
+    ]
+  },
+  "40": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "conformity"
+    ]
+  },
+  "41": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "conformity"
+    ]
+  },
+  "42": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "43": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Product manufacturers",
+      "Certification bodies",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "conformity",
+      "notified body",
+      "quality management",
+      "market surveillance"
+    ]
+  },
+  "44": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity",
+      "notified body"
+    ]
+  },
+  "45": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity",
+      "notified body",
+      "quality management",
+      "market surveillance"
+    ]
+  },
+  "46": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Enforcement authorities"
+    ],
+    "exceptions": [
+      "Article 46\nDerogation from conformity assessment procedure\n1"
+    ],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "market surveillance"
+    ]
+  },
+  "47": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The provider shall keep the EU declaration of conformity up-to-date as approp..."
+    ],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity"
+    ]
+  },
+  "48": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "notified body"
+    ]
+  },
+  "49": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Certification bodies"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "biometric",
+      "high-risk",
+      "transparency",
+      "fundamental rights",
+      "conformity",
+      "notified body"
+    ]
+  },
+  "5": {
+    "title": "",
+    "prohibits": [
+      "The notification shall, as\na minimum, contain the information specified under...",
+      "Member States shall notify those rules to the Commission at the latest 30 day...",
+      "Those annual reports shall not include sensitive operational data of the rela...",
+      "This Article shall not affect the prohibitions that apply where an AI practic..."
+    ],
+    "requires": [
+      "In deciding\non the request, that authority shall take into account the elemen..."
+    ],
+    "applies_to": [
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "biometric",
+      "high-risk",
+      "fundamental rights",
+      "market surveillance",
+      "prohibited",
+      "remote biometric identification",
+      "profiling"
+    ]
+  },
+  "50": {
+    "title": "",
+    "prohibits": [
+      "This obligation shall not apply where the use is\nauthorised by law to detect,..."
+    ],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "biometric",
+      "transparency",
+      "emotion recognition"
+    ]
+  },
+  "51": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "52": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "53": {
+    "title": "and, where applicable, Article 55 have been fulfilled by the provider;",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "54": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "55": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "serious incident"
+    ]
+  },
+  "56": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The AI Office shall take the necessary steps, including\ninviting providers pu..."
+    ],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "57": {
+    "title": "",
+    "prohibits": [
+      "This Article shall not affect other regulatory sandboxes established under Un..."
+    ],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "fundamental rights",
+      "conformity",
+      "market surveillance"
+    ]
+  },
+  "58": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "fundamental rights",
+      "conformity"
+    ]
+  },
+  "59": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "6": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "Upon request of national competent authorities, the provider shall provide th..."
+    ],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "conformity",
+      "profiling"
+    ]
+  },
+  "60": {
+    "title": "",
+    "prohibits": [
+      "The\nwithdrawal of the informed consent shall not affect the activities alread..."
+    ],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "serious incident",
+      "market surveillance"
+    ]
+  },
+  "61": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "62": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "conformity"
+    ]
+  },
+  "63": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [
+      "Article 63\nDerogations for specific operators\n1"
+    ],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "quality management"
+    ]
+  },
+  "64": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "65": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "market surveillance"
+    ]
+  },
+  "66": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "fundamental rights",
+      "conformity",
+      "serious incident",
+      "market surveillance"
+    ]
+  },
+  "67": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "fundamental rights"
+    ]
+  },
+  "68": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The AI Office shall establish systems and procedures to actively manage\nand p..."
+    ],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "market surveillance"
+    ]
+  },
+  "69": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "7": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights"
+    ]
+  },
+  "70": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "National competent authorities shall take appropriate measures to ensure an a..."
+    ],
+    "applies_to": [
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "market surveillance"
+    ]
+  },
+  "71": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "post-market monitoring",
+      "market surveillance"
+    ]
+  },
+  "72": {
+    "title": "",
+    "prohibits": [
+      "This obligation shall not cover sensitive operational data of deployers which..."
+    ],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "post-market monitoring",
+      "serious incident"
+    ]
+  },
+  "73": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The period for the reporting referred to in the first subparagraph shall take..."
+    ],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Certification bodies",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "notified body",
+      "risk assessment",
+      "serious incident",
+      "market surveillance"
+    ]
+  },
+  "74": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "The AI Office\nshall provide coordination support for joint investigations"
+    ],
+    "applies_to": [
+      "AI developers/vendors",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "market surveillance",
+      "prohibited"
+    ]
+  },
+  "75": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "market surveillance"
+    ]
+  },
+  "76": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "serious incident",
+      "market surveillance"
+    ]
+  },
+  "77": {
+    "title": "",
+    "prohibits": [
+      "Member States shall notify the list to the Commission and to the other Member..."
+    ],
+    "requires": [
+      "Member States shall notify the list to the Commission and to the other Member..."
+    ],
+    "applies_to": [
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "market surveillance"
+    ]
+  },
+  "78": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "market surveillance"
+    ]
+  },
+  "79": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Certification bodies",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "conformity",
+      "notified body",
+      "market surveillance"
+    ]
+  },
+  "8": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk"
+    ]
+  },
+  "80": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "market surveillance"
+    ]
+  },
+  "81": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "market surveillance"
+    ]
+  },
+  "82": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "market surveillance"
+    ]
+  },
+  "83": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "conformity",
+      "market surveillance"
+    ]
+  },
+  "84": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "market surveillance"
+    ]
+  },
+  "85": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "Enforcement authorities"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "market surveillance"
+    ]
+  },
+  "86": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights"
+    ]
+  },
+  "87": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "88": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "market surveillance"
+    ]
+  },
+  "89": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "9": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk",
+      "fundamental rights",
+      "post-market monitoring"
+    ]
+  },
+  "90": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "91": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "92": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "93": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "94": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "95": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators"
+    ],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "high-risk"
+    ]
+  },
+  "96": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": [
+      "transparency",
+      "prohibited"
+    ]
+  },
+  "97": {
+    "title": "",
+    "prohibits": [
+      "It shall not affect the validity of any delegated acts already in force",
+      "As soon as it adopts a delegated act, the Commission shall notify it simultan..."
+    ],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "98": {
+    "title": "",
+    "prohibits": [],
+    "requires": [],
+    "applies_to": [],
+    "exceptions": [],
+    "penalties": [],
+    "keywords": []
+  },
+  "99": {
+    "title": "",
+    "prohibits": [],
+    "requires": [
+      "They shall take into account the interests of SMEs,\nincluding start-ups, and ..."
+    ],
+    "applies_to": [
+      "AI developers/vendors",
+      "AI users/operators",
+      "Importers into EU",
+      "Distributors"
+    ],
+    "exceptions": [],
+    "penalties": [
+      "Fine: EUR 35",
+      "Fine: EUR 15",
+      "Fine: EUR 7"
+    ],
+    "keywords": [
+      "transparency",
+      "market surveillance"
+    ]
+  }
+}

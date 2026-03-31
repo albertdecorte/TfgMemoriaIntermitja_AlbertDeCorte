@@ -1,0 +1,10 @@
+[ART60] 
+
+🚫 PROHIBITS:
+   • The
+withdrawal of the informed consent shall not affect the activities alread...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, serious incident, market surveillance
+--------------------------------------------------

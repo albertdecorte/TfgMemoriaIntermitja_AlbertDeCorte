@@ -1,0 +1,9 @@
+[ART72] 
+
+🚫 PROHIBITS:
+   • This obligation shall not cover sensitive operational data of deployers which...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, post-market monitoring, serious incident
+--------------------------------------------------

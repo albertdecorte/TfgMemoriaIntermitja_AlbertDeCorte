@@ -1,0 +1,9 @@
+[ART6] 
+
+✅ REQUIRES:
+   • Upon request of national competent authorities, the provider shall provide th...
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity, profiling
+--------------------------------------------------

@@ -1,0 +1,10 @@
+[ART74] 
+
+✅ REQUIRES:
+   • The AI Office
+shall provide coordination support for joint investigations
+
+👥 APPLIES TO: AI developers/vendors, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, conformity, market surveillance, prohibited
+--------------------------------------------------

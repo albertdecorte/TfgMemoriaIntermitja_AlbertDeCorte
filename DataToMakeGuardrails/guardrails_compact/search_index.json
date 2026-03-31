@@ -1,0 +1,345 @@
+{
+  "high-risk": [
+    "1",
+    "10",
+    "11",
+    "111",
+    "112",
+    "113",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "19",
+    "2",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "3",
+    "31",
+    "34",
+    "36",
+    "38",
+    "40",
+    "41",
+    "42",
+    "43",
+    "46",
+    "47",
+    "48",
+    "49",
+    "5",
+    "6",
+    "60",
+    "63",
+    "7",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "77",
+    "78",
+    "79",
+    "8",
+    "80",
+    "82",
+    "83",
+    "86",
+    "9",
+    "95"
+  ],
+  "transparency": [
+    "1",
+    "112",
+    "13",
+    "49",
+    "50",
+    "96",
+    "99"
+  ],
+  "fundamental rights": [
+    "1",
+    "10",
+    "112",
+    "113",
+    "13",
+    "14",
+    "27",
+    "28",
+    "3",
+    "36",
+    "40",
+    "41",
+    "43",
+    "49",
+    "5",
+    "57",
+    "58",
+    "6",
+    "66",
+    "67",
+    "7",
+    "70",
+    "77",
+    "79",
+    "82",
+    "86",
+    "9"
+  ],
+  "market surveillance": [
+    "1",
+    "20",
+    "22",
+    "26",
+    "27",
+    "3",
+    "36",
+    "43",
+    "45",
+    "46",
+    "5",
+    "57",
+    "60",
+    "65",
+    "66",
+    "68",
+    "70",
+    "71",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "88",
+    "99"
+  ],
+  "data governance": [
+    "10"
+  ],
+  "prohibited": [
+    "10",
+    "112",
+    "4",
+    "5",
+    "74",
+    "96"
+  ],
+  "the fines shall not affect": [
+    "100"
+  ],
+  "conformity": [
+    "11",
+    "112",
+    "113",
+    "13",
+    "16",
+    "17",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "28",
+    "29",
+    "3",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "36",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "57",
+    "58",
+    "6",
+    "62",
+    "66",
+    "74",
+    "79",
+    "83"
+  ],
+  "notified body": [
+    "11",
+    "113",
+    "17",
+    "20",
+    "29",
+    "3",
+    "30",
+    "31",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "43",
+    "44",
+    "45",
+    "48",
+    "49",
+    "73",
+    "79"
+  ],
+  "biometric": [
+    "113",
+    "26",
+    "3",
+    "49",
+    "5",
+    "50"
+  ],
+  "quality management": [
+    "113",
+    "16",
+    "17",
+    "31",
+    "43",
+    "45",
+    "63"
+  ],
+  "risk assessment": [
+    "113",
+    "73"
+  ],
+  "human oversight": [
+    "113",
+    "13",
+    "14",
+    "26",
+    "27"
+  ],
+  "post-market monitoring": [
+    "12",
+    "3",
+    "71",
+    "72",
+    "9"
+  ],
+  "the notified body shall notify": [
+    "17"
+  ],
+  "serious incident": [
+    "26",
+    "3",
+    "55",
+    "60",
+    "66",
+    "72",
+    "73",
+    "76"
+  ],
+  "remote biometric identification": [
+    "26",
+    "5"
+  ],
+  "this obligation shall not cover": [
+    "26",
+    "72"
+  ],
+  "those procedures shall be developed": [
+    "28"
+  ],
+  "notifying authorities may notify only": [
+    "30"
+  ],
+  "notified bodies shall take full": [
+    "33"
+  ],
+  "the commission shall ensure that": [
+    "35"
+  ],
+  "the commission shall provide for": [
+    "38"
+  ],
+  "the provider shall keep the": [
+    "47"
+  ],
+  "profiling": [
+    "5",
+    "6"
+  ],
+  "the notification shall, as a": [
+    "5"
+  ],
+  "member states shall notify those": [
+    "5"
+  ],
+  "those annual reports shall not": [
+    "5"
+  ],
+  "this article shall not affect": [
+    "5",
+    "57"
+  ],
+  "in deciding on the request,": [
+    "5"
+  ],
+  "emotion recognition": [
+    "50"
+  ],
+  "this obligation shall not apply": [
+    "50"
+  ],
+  "the ai office shall take": [
+    "56"
+  ],
+  "upon request of national competent": [
+    "6"
+  ],
+  "the withdrawal of the informed": [
+    "60"
+  ],
+  "the ai office shall establish": [
+    "68"
+  ],
+  "national competent authorities shall take": [
+    "70"
+  ],
+  "the period for the reporting": [
+    "73"
+  ],
+  "the ai office shall provide": [
+    "74"
+  ],
+  "member states shall notify the": [
+    "77"
+  ],
+  "it shall not affect the": [
+    "97"
+  ],
+  "as soon as it adopts": [
+    "97"
+  ],
+  "they shall take into account": [
+    "99"
+  ]
+}

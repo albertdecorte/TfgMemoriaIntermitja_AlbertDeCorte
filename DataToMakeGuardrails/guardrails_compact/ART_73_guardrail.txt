@@ -1,0 +1,9 @@
+[ART73] 
+
+✅ REQUIRES:
+   • The period for the reporting referred to in the first subparagraph shall take...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Certification bodies, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, notified body, risk assessment, serious incident, market surveillance
+--------------------------------------------------

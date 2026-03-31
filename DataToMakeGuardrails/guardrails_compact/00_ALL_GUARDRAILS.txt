@@ -1,0 +1,697 @@
+======================================================================
+EU AI ACT - COMPACT GUARDRAILS
+Quick reference for compliance checking
+======================================================================
+
+[ART1] 
+
+🔑 KEYWORDS: high-risk, transparency, fundamental rights, market surveillance
+--------------------------------------------------
+[ART10] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, fundamental rights, data governance, prohibited
+--------------------------------------------------
+[ART100] 
+
+🚫 PROHIBITS:
+   • The fines
+shall not affect the effective operation of the Union institution, ...
+
+💰 PENALTIES: Fine: EUR 1 | Fine: EUR 750
+
+--------------------------------------------------
+[ART101] 
+
+👥 APPLIES TO: AI developers/vendors
+
+💰 PENALTIES: Fine: EUR 15
+
+--------------------------------------------------
+[ART102] 
+
+--------------------------------------------------
+[ART103] 
+
+--------------------------------------------------
+[ART104] 
+
+--------------------------------------------------
+[ART105] 
+
+--------------------------------------------------
+[ART106] 
+
+--------------------------------------------------
+[ART107] 
+
+--------------------------------------------------
+[ART108] 
+
+--------------------------------------------------
+[ART109] 
+
+--------------------------------------------------
+[ART11] have been drawn up and that an appropriate conform
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: high-risk, conformity, notified body
+--------------------------------------------------
+[ART110] 
+
+--------------------------------------------------
+[ART111] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk
+--------------------------------------------------
+[ART112] 
+
+🔑 KEYWORDS: high-risk, transparency, fundamental rights, conformity, prohibited
+--------------------------------------------------
+[ART113] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Certification bodies
+
+🔑 KEYWORDS: biometric, high-risk, fundamental rights, conformity, notified body, quality management, risk assessment, human oversight
+--------------------------------------------------
+[ART12] 
+
+🔑 KEYWORDS: high-risk, post-market monitoring
+--------------------------------------------------
+[ART13] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, transparency, fundamental rights, conformity, human oversight
+--------------------------------------------------
+[ART14] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, fundamental rights, human oversight
+--------------------------------------------------
+[ART15] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk
+--------------------------------------------------
+[ART16] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, conformity, quality management
+--------------------------------------------------
+[ART17] shall be examined in accordance with point 3 and s
+
+🚫 PROHIBITS:
+   • The notified body shall notify the provider of its decision
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: high-risk, conformity, notified body, quality management
+--------------------------------------------------
+[ART18] of Regulation (EU) 2019/1020 shall apply mutatis m
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART19] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk
+--------------------------------------------------
+[ART2] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors, Product manufacturers
+
+🔑 KEYWORDS: high-risk
+--------------------------------------------------
+[ART20] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors, Certification bodies
+
+🔑 KEYWORDS: high-risk, conformity, notified body, market surveillance
+--------------------------------------------------
+[ART21] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART22] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, conformity, market surveillance
+--------------------------------------------------
+[ART23] 
+
+👥 APPLIES TO: AI developers/vendors, Importers into EU
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART24] 
+
+👥 APPLIES TO: AI developers/vendors, Importers into EU, Distributors
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART25] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors, Product manufacturers
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART26] 
+
+🚫 PROHIBITS:
+   • This obligation
+shall not cover sensitive operational data of deployers of AI...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors, Enforcement authorities
+
+🔑 KEYWORDS: biometric, high-risk, human oversight, serious incident, market surveillance, remote biometric identification
+--------------------------------------------------
+[ART27] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, fundamental rights, human oversight, market surveillance
+--------------------------------------------------
+[ART28] 
+
+✅ REQUIRES:
+   • Those procedures shall be developed in cooperation between the notifying auth...
+
+🔑 KEYWORDS: fundamental rights, conformity
+--------------------------------------------------
+[ART29] 
+
+👥 APPLIES TO: Certification bodies
+
+🔑 KEYWORDS: conformity, notified body
+--------------------------------------------------
+[ART3] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors, Product manufacturers, Certification bodies, Enforcement authorities
+
+🔑 KEYWORDS: biometric, high-risk, fundamental rights, conformity, notified body, post-market monitoring, serious incident, market surveillance
+--------------------------------------------------
+[ART30] 
+
+🚫 PROHIBITS:
+   • Notifying authorities may notify only conformity assessment bodies which have...
+
+👥 APPLIES TO: Certification bodies
+
+🔑 KEYWORDS: conformity, notified body
+--------------------------------------------------
+[ART31] 
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: high-risk, conformity, notified body, quality management
+--------------------------------------------------
+[ART32] 
+
+🔑 KEYWORDS: conformity
+--------------------------------------------------
+[ART33] 
+
+✅ REQUIRES:
+   • Notified bodies shall take full responsibility for the tasks performed by any...
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: conformity, notified body
+--------------------------------------------------
+[ART34] 
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: high-risk, conformity, notified body
+--------------------------------------------------
+[ART35] 
+
+✅ REQUIRES:
+   • The Commission shall ensure that the list is kept
+up to date
+
+👥 APPLIES TO: Certification bodies
+
+🔑 KEYWORDS: notified body
+--------------------------------------------------
+[ART36] 
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity, notified body, market surveillance
+--------------------------------------------------
+[ART37] 
+
+👥 APPLIES TO: Certification bodies
+
+🔑 KEYWORDS: notified body
+--------------------------------------------------
+[ART38] 
+
+✅ REQUIRES:
+   • The Commission shall provide for the exchange of knowledge and best practices...
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART39] 
+
+🔑 KEYWORDS: conformity
+--------------------------------------------------
+[ART4] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: prohibited
+--------------------------------------------------
+[ART40] 
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity
+--------------------------------------------------
+[ART41] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity
+--------------------------------------------------
+[ART42] 
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART43] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Product manufacturers, Certification bodies, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity, notified body, quality management, market surveillance
+--------------------------------------------------
+[ART44] 
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: conformity, notified body
+--------------------------------------------------
+[ART45] 
+
+👥 APPLIES TO: Certification bodies
+
+🔑 KEYWORDS: conformity, notified body, quality management, market surveillance
+--------------------------------------------------
+[ART46] 
+
+👥 APPLIES TO: Enforcement authorities
+
+⚠️ EXCEPTIONS:
+   • Article 46
+Derogation from conformity assessment procedure
+1
+
+🔑 KEYWORDS: high-risk, conformity, market surveillance
+--------------------------------------------------
+[ART47] 
+
+✅ REQUIRES:
+   • The provider shall keep the EU declaration of conformity up-to-date as approp...
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, conformity
+--------------------------------------------------
+[ART48] 
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: high-risk, conformity, notified body
+--------------------------------------------------
+[ART49] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Certification bodies
+
+🔑 KEYWORDS: biometric, high-risk, transparency, fundamental rights, conformity, notified body
+--------------------------------------------------
+[ART5] 
+
+🚫 PROHIBITS:
+   • The notification shall, as
+a minimum, contain the information specified under...
+   • Member States shall notify those rules to the Commission at the latest 30 day...
+   • Those annual reports shall not include sensitive operational data of the rela...
+   • This Article shall not affect the prohibitions that apply where an AI practic...
+
+✅ REQUIRES:
+   • In deciding
+on the request, that authority shall take into account the elemen...
+
+👥 APPLIES TO: Enforcement authorities
+
+🔑 KEYWORDS: biometric, high-risk, fundamental rights, market surveillance, prohibited, remote biometric identification, profiling
+--------------------------------------------------
+[ART50] 
+
+🚫 PROHIBITS:
+   • This obligation shall not apply where the use is
+authorised by law to detect,...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: biometric, transparency, emotion recognition
+--------------------------------------------------
+[ART51] 
+
+--------------------------------------------------
+[ART52] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART53] and, where applicable, Article 55 have been fulfil
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART54] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART55] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: serious incident
+--------------------------------------------------
+[ART56] 
+
+✅ REQUIRES:
+   • The AI Office shall take the necessary steps, including
+inviting providers pu...
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART57] 
+
+🚫 PROHIBITS:
+   • This Article shall not affect other regulatory sandboxes established under Un...
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: fundamental rights, conformity, market surveillance
+--------------------------------------------------
+[ART58] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: fundamental rights, conformity
+--------------------------------------------------
+[ART59] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART6] 
+
+✅ REQUIRES:
+   • Upon request of national competent authorities, the provider shall provide th...
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity, profiling
+--------------------------------------------------
+[ART60] 
+
+🚫 PROHIBITS:
+   • The
+withdrawal of the informed consent shall not affect the activities alread...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, serious incident, market surveillance
+--------------------------------------------------
+[ART61] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART62] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: conformity
+--------------------------------------------------
+[ART63] 
+
+⚠️ EXCEPTIONS:
+   • Article 63
+Derogations for specific operators
+1
+
+🔑 KEYWORDS: high-risk, quality management
+--------------------------------------------------
+[ART64] 
+
+--------------------------------------------------
+[ART65] 
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
+[ART66] 
+
+🔑 KEYWORDS: fundamental rights, conformity, serious incident, market surveillance
+--------------------------------------------------
+[ART67] 
+
+🔑 KEYWORDS: fundamental rights
+--------------------------------------------------
+[ART68] 
+
+✅ REQUIRES:
+   • The AI Office shall establish systems and procedures to actively manage
+and p...
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
+[ART69] 
+
+--------------------------------------------------
+[ART7] 
+
+👥 APPLIES TO: AI users/operators
+
+🔑 KEYWORDS: high-risk, fundamental rights
+--------------------------------------------------
+[ART70] 
+
+✅ REQUIRES:
+   • National competent authorities shall take appropriate measures to ensure an a...
+
+👥 APPLIES TO: Enforcement authorities
+
+🔑 KEYWORDS: high-risk, fundamental rights, market surveillance
+--------------------------------------------------
+[ART71] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, post-market monitoring, market surveillance
+--------------------------------------------------
+[ART72] 
+
+🚫 PROHIBITS:
+   • This obligation shall not cover sensitive operational data of deployers which...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, post-market monitoring, serious incident
+--------------------------------------------------
+[ART73] 
+
+✅ REQUIRES:
+   • The period for the reporting referred to in the first subparagraph shall take...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Certification bodies, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, notified body, risk assessment, serious incident, market surveillance
+--------------------------------------------------
+[ART74] 
+
+✅ REQUIRES:
+   • The AI Office
+shall provide coordination support for joint investigations
+
+👥 APPLIES TO: AI developers/vendors, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, conformity, market surveillance, prohibited
+--------------------------------------------------
+[ART75] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, market surveillance
+--------------------------------------------------
+[ART76] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Enforcement authorities
+
+🔑 KEYWORDS: serious incident, market surveillance
+--------------------------------------------------
+[ART77] 
+
+🚫 PROHIBITS:
+   • Member States shall notify the list to the Commission and to the other Member...
+
+✅ REQUIRES:
+   • Member States shall notify the list to the Commission and to the other Member...
+
+👥 APPLIES TO: Enforcement authorities
+
+🔑 KEYWORDS: high-risk, fundamental rights, market surveillance
+--------------------------------------------------
+[ART78] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, market surveillance
+--------------------------------------------------
+[ART79] 
+
+👥 APPLIES TO: Certification bodies, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, fundamental rights, conformity, notified body, market surveillance
+--------------------------------------------------
+[ART8] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: high-risk
+--------------------------------------------------
+[ART80] 
+
+👥 APPLIES TO: AI developers/vendors, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, market surveillance
+--------------------------------------------------
+[ART81] 
+
+👥 APPLIES TO: Enforcement authorities
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
+[ART82] 
+
+👥 APPLIES TO: AI developers/vendors, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, fundamental rights, market surveillance
+--------------------------------------------------
+[ART83] 
+
+👥 APPLIES TO: AI developers/vendors, Enforcement authorities
+
+🔑 KEYWORDS: high-risk, conformity, market surveillance
+--------------------------------------------------
+[ART84] 
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
+[ART85] 
+
+👥 APPLIES TO: Enforcement authorities
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
+[ART86] 
+
+👥 APPLIES TO: AI users/operators
+
+🔑 KEYWORDS: high-risk, fundamental rights
+--------------------------------------------------
+[ART87] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART88] 
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
+[ART89] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART9] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk, fundamental rights, post-market monitoring
+--------------------------------------------------
+[ART90] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART91] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART92] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART93] 
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------
+[ART94] 
+
+--------------------------------------------------
+[ART95] 
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators
+
+🔑 KEYWORDS: high-risk
+--------------------------------------------------
+[ART96] 
+
+🔑 KEYWORDS: transparency, prohibited
+--------------------------------------------------
+[ART97] 
+
+🚫 PROHIBITS:
+   • It shall not affect the validity of any delegated acts already in force
+   • As soon as it adopts a delegated act, the Commission shall notify it simultan...
+
+--------------------------------------------------
+[ART98] 
+
+--------------------------------------------------
+[ART99] 
+
+✅ REQUIRES:
+   • They shall take into account the interests of SMEs,
+including start-ups, and ...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors
+
+💰 PENALTIES: Fine: EUR 35 | Fine: EUR 15 | Fine: EUR 7
+
+🔑 KEYWORDS: transparency, market surveillance
+--------------------------------------------------

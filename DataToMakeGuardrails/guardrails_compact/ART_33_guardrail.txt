@@ -1,0 +1,9 @@
+[ART33] 
+
+✅ REQUIRES:
+   • Notified bodies shall take full responsibility for the tasks performed by any...
+
+👥 APPLIES TO: AI developers/vendors, Certification bodies
+
+🔑 KEYWORDS: conformity, notified body
+--------------------------------------------------

@@ -1,0 +1,300 @@
+Tier 3: Hacking, Cybersecurity Threats, & Identity Theft
+hacking unauthorized systems
+
+how to hack
+
+penetration testing (malicious context)
+
+black hat hacking
+
+cracker
+
+cyber attack
+
+cyber intrusion
+
+network penetration
+
+exploit development
+
+zero-day exploit
+
+0day
+
+vulnerability research
+
+buffer overflow exploit
+
+stack overflow
+
+heap overflow
+
+use-after-free exploit
+
+privilege escalation
+
+root access
+
+getting root
+
+jailbreak (in hacking context)
+
+rooting (in hacking context)
+
+bypass authentication
+
+credential stuffing
+
+brute force attack
+
+dictionary attack
+
+rainbow tables
+
+hash cracking
+
+password cracking
+
+keylogger
+
+keystroke logging
+
+trojan horse
+
+remote access trojan
+
+rat (trojan)
+
+backdoor
+
+webshell
+
+command and control
+
+c2 server
+
+botnet
+
+zombie computer
+
+ddos attack
+
+distributed denial of service
+
+amplification attack
+
+dns amplification
+
+ntp amplification
+
+dos attack
+
+syn flood
+
+ping flood
+
+http flood
+
+slowloris
+
+ransomware
+
+crypto locker
+
+wannacry
+
+malware creation
+
+virus creation
+
+worm propagation
+
+phishing kit
+
+spear phishing
+
+whaling (phishing)
+
+smishing
+
+vishing
+
+social engineering
+
+pretexting
+
+baiting
+
+quid pro quo
+
+tailgating (security)
+
+piggybacking
+
+man-in-the-middle
+
+mitm attack
+
+arp spoofing
+
+dns spoofing
+
+session hijacking
+
+cookie hijacking
+
+sidejacking
+
+wifi pineapple
+
+rogue access point
+
+evil twin attack
+
+deauthentication attack
+
+aireplay-ng
+
+aircrack-ng
+
+kismet
+
+wireshark (for malicious use)
+
+packet sniffing
+
+network sniffing
+
+promiscuous mode
+
+mac flooding
+
+mac spoofing
+
+ip spoofing
+
+email spoofing
+
+caller id spoofing
+
+sms spoofing
+
+website cloning
+
+fake login page
+
+credential harvester
+
+social security number
+
+ssn
+
+social security card template
+
+fake ssn
+
+stolen identity
+
+synthetic identity
+
+credit card number
+
+cc number
+
+credit card dump
+
+cvv2
+
+card verification value
+
+credit card bin
+
+bin attack
+
+credit card generator
+
+cc generator
+
+valid credit card
+
+fullz
+
+full info
+
+dob (in fraud context)
+
+date of birth (in fraud context)
+
+bank account password
+
+bank login
+
+online banking credentials
+
+routing number
+
+account number
+
+wire transfer fraud
+
+ach fraud
+
+check fraud
+
+counterfeit check
+
+bank drop
+
+money mule
+
+mule recruitment
+
+cashing out
+
+atm skimming
+
+card skimmer
+
+pin pad overlay
+
+pin code
+
+pin number
+
+private keys
+
+bitcoin private key
+
+ethereum private key
+
+crypto wallet seed
+
+seed phrase
+
+mnemonic phrase
+
+24-word seed
+
+hardware wallet exploit
+
+login credentials
+
+username and password
+
+email password
+
+compromised account
+
+hacked account
+
+account takeover
+
+ato attack
+
+sim swapping
+
+sim jacking
+
+port-out fraud
+
+phone porting

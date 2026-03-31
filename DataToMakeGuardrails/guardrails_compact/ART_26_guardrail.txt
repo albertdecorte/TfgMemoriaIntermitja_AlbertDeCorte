@@ -1,0 +1,10 @@
+[ART26] 
+
+🚫 PROHIBITS:
+   • This obligation
+shall not cover sensitive operational data of deployers of AI...
+
+👥 APPLIES TO: AI developers/vendors, AI users/operators, Importers into EU, Distributors, Enforcement authorities
+
+🔑 KEYWORDS: biometric, high-risk, human oversight, serious incident, market surveillance, remote biometric identification
+--------------------------------------------------

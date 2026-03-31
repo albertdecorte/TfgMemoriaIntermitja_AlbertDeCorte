@@ -1,0 +1,9 @@
+[ART56] 
+
+✅ REQUIRES:
+   • The AI Office shall take the necessary steps, including
+inviting providers pu...
+
+👥 APPLIES TO: AI developers/vendors
+
+--------------------------------------------------

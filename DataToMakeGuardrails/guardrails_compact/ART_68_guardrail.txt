@@ -1,0 +1,10 @@
+[ART68] 
+
+✅ REQUIRES:
+   • The AI Office shall establish systems and procedures to actively manage
+and p...
+
+👥 APPLIES TO: AI developers/vendors
+
+🔑 KEYWORDS: market surveillance
+--------------------------------------------------
